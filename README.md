@@ -19,7 +19,7 @@ La informacion de cada pais incluye:
 - Carrera: Tecnicatura Universitaria en Programacion a Distancia
 - Materia: Programacion 1
 - Comision: 11 - Regional Venado Tuerto
-- Fecha de entrega: 15/06/2026
+- Fecha de entrega: 17/06/2026
 
 ## Integrantes
 
@@ -117,7 +117,7 @@ Cantidad de paises por continente:
 ## Enlaces de entrega
 
 - Repositorio GitHub: https://github.com/gjisaias/UTN-TPI-Programacion1
-- Video demostrativo: PENDIENTE (completar con el enlace publico cuando este grabado)
+- Video demostrativo: https://youtu.be/EfYUKP-7b7A
 - Documentacion PDF: Informe_tecnico.pdf (incluido en la raiz del repositorio)
 
 ## Participacion
